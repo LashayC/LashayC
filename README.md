@@ -35,7 +35,7 @@
         <p align="center">
           
   <a href="https://lofi-tictactoe.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white/>
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white/">
   </a>
       </p>
         <p><strong>Javascript, CSS, HTML</strong> - A relaxing tic-tac-toe game</p>
