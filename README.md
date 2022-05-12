@@ -56,6 +56,7 @@
 <p align="center">
 <a href="https://twitter.com/shaycced" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shaycced" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/lashay-c/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/lashay-c/" height="30" width="40" /></a>
+ <a href="https://linkedin.com/in/https://www.linkedin.com/in/lashay-c/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/angellist-alt.svg" alt="https://www.linkedin.com/in/lashay-c/" height="30" width="40" /></a>
 </p>
 <!---
 LashayC/LashayC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
