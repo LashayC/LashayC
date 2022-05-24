@@ -2,7 +2,7 @@
 
 <p align="left">A Full Stack Software Engineer who has a passion for connecting people through code with a background in Hardware and Social Services. See my website for more information.</hp>
 
-👨‍💻 Website [https://lashaycokley.netlify.app/](https://lashaycokley.netlify.app/)
+👨‍💻 Website [https://lashay-cokley.netlify.app/](https://lashaycokley.netlify.app/)
 
 
 <h3 align="center">Projects</h3>
