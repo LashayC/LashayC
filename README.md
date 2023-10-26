@@ -1,47 +1,8 @@
 ![Heading pic](https://user-images.githubusercontent.com/102004376/168067529-09e4b91b-932b-4091-b1ac-4b88df37e7d1.png)
 
-<p align="left">A Full Stack Software Engineer who has a passion for connecting people through code with a background in Hardware and Social Services. See my website for more information.</hp>
+<p align="left">A Software Engineer that's passionate about bridging the gap between people and technology.
 
 
-
-<h3 align="center">Projects</h3>
-
-<table bordercolor="#66b2b2">
-  
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">Slot Machine Game</h3>
-        <br />
-        <a target="_blank" href="https://oregonslotmachine.netlify.app/">
-            <img src="https://user-images.githubusercontent.com/102004376/165019070-0997d913-1fcc-4ed2-9ede-2b8daf3c6cf9.JPG" width="100%" alt="Slot Game"/>
-        </a>
-        <br />
-        <p align="center">
-          
-  <a href="https://oregonslotmachine.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
-      </p>
-        <p><strong>Javascript, CSS, HTML</strong> - Slot machine game based on the Oregon Trail </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">Tic-tac-toe</h3>
-        <br />
-      <a target="_blank" href="https://lofi-tictactoe.netlify.app/">
-            <img src="https://user-images.githubusercontent.com/102004376/166244526-9c4bbcd3-a549-4fda-9e37-57c42eb124d6.JPG"  alt="Tic-tac-toe"/>
-        </a>
-        <br />
-        <p align="center">
-          
-  <a href="https://lofi-tictactoe.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white/">
-  </a>
-      </p>
-        <p><strong>Javascript, CSS, HTML</strong> - A relaxing tic-tac-toe game</p>
-    </td>
-  </tr>
- 
-</table>
 
 
 <h1 align="center">Technologies</h1>
